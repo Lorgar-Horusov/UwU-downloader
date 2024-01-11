@@ -1,0 +1,6 @@
+requests
+keyboard
+tabulate
+colorama
+python-dotenv
+art
