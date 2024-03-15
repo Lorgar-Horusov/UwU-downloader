@@ -1,6 +1,7 @@
 requests
-keyboard
 tabulate
 colorama
 python-dotenv
 art
+InquirerPy
+alive_progress
